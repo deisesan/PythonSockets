@@ -1,4 +1,4 @@
-# TCP Cliente Side 
+# TCP Client Side 
 
 # Importar o módulo do socket 
 import socket
