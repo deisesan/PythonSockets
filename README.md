@@ -26,6 +26,5 @@ Cada tema possui uma implementação prática conforme as instruções da ativid
 
 ## Estrutura do Repositório
 
-[Documentos](https://github.com/deisesan/PythonSockets/blob/97e8c8e818eba69896edb74eae31eb77fc368521/00%20-%20Documentos/Descri%C3%A7%C3%A3o%20da%20atividade.pdf)
-
-[Socket](https://github.com/deisesan/PythonSockets/tree/97e8c8e818eba69896edb74eae31eb77fc368521/01%20-%20Socket)
+00. [Documentos](https://github.com/deisesan/PythonSockets/blob/97e8c8e818eba69896edb74eae31eb77fc368521/00%20-%20Documentos/Descri%C3%A7%C3%A3o%20da%20atividade.pdf)
+01. [Socket](https://github.com/deisesan/PythonSockets/tree/97e8c8e818eba69896edb74eae31eb77fc368521/01%20-%20Socket)
