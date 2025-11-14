@@ -24,7 +24,9 @@ Cada tema possui uma implementação prática conforme as instruções da ativid
 
    1.1. Curso - Ana Luiza - [Java: Socket Programming Simplified](https://www.udemy.com/cart/subscribe/course/1456946/)
 
-   1.2. Curso - Deise Santana - [The Art of Doing: Fundamental Socket Python Programming](https://www.udemy.com/course/the-art-of-doing-fundamental-socket-python-programming/)
+   1.2. Curso - Anne Karolinne - [The Art of Doing: Fundamental Socket Python Programming](https://www.udemy.com/course/the-art-of-doing-fundamental-socket-python-programming/)
+
+   1.3. Curso - Deise Santana - [Socket.IO NodeJs. Aprende Websockets creando chat en vivo](https://www.udemy.com/course/websockets-socketio-nodejs-que-son-websockets/)
    
 ---
 
